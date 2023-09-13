@@ -1,6 +1,7 @@
 body{
     font-family: 'merriweather'sans-serif;
     overflow-x: hidden;
+    overflow: hidden;
     
 }
 /* header */
